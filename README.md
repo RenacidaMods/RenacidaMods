@@ -4,6 +4,8 @@ Bringing classic PC games back to life on modern hardware. "Renacida" is Spanish
 
 **Website:** [renacidamods.edparker.uk](https://renacidamods.edparker.uk/), with how to play each game today and measured results.
 
+Made by Ed Parker, Exeter: [edparker.uk](https://edparker.uk/)
+
 ## Projects
 
 - **Magic Carpet 2** (via [Magic Carpet 2 HD](https://github.com/thobbsinteractive/magic-carpet-2-hd)): smooth frame rates at 4K at the game's original speed, sprites at their intended shape, a faster display mode on Windows and crash fixes. **Out now:** [RenacidaMods edition, latest release](https://github.com/RenacidaMods/magic-carpet-2-hd/releases/latest), a small add-on for Magic Carpet 2 HD (no game files, works with your own copy).
